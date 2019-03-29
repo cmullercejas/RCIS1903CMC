@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: Emergency Alerts
+  title: Emergency Alerts RCIS1903CMC
   description: This applications monitor the users' location in order to send them alerts about possible emergencies in their area.
   version: '1.0'
   termsOfService: 'https://emergencies.spilab.es/terms'
